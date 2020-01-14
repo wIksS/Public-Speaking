@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\bin\Debug\netcoreapp3.1\03.GCPerformance.exe
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\bin\Debug\netcoreapp3.1\03.GCPerformance.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\bin\Debug\netcoreapp3.1\03.GCPerformance.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\bin\Debug\netcoreapp3.1\03.GCPerformance.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\bin\Debug\netcoreapp3.1\03.GCPerformance.dll
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\bin\Debug\netcoreapp3.1\03.GCPerformance.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\obj\Debug\netcoreapp3.1\03.GCPerformance.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\obj\Debug\netcoreapp3.1\03.GCPerformance.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\obj\Debug\netcoreapp3.1\03.GCPerformance.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\obj\Debug\netcoreapp3.1\03.GCPerformance.dll
+C:\Users\Viktor\source\repos\Garbage Collection\03.GCPerformance\obj\Debug\netcoreapp3.1\03.GCPerformance.pdb

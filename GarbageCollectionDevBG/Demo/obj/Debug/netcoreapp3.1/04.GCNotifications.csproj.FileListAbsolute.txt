@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\bin\Debug\netcoreapp3.1\04.GCNotifications.exe
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\bin\Debug\netcoreapp3.1\04.GCNotifications.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\bin\Debug\netcoreapp3.1\04.GCNotifications.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\bin\Debug\netcoreapp3.1\04.GCNotifications.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\bin\Debug\netcoreapp3.1\04.GCNotifications.dll
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\bin\Debug\netcoreapp3.1\04.GCNotifications.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\04.GCNotifications.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\04.GCNotifications.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\04.GCNotifications.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\04.GCNotifications.dll
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\04.GCNotifications.pdb

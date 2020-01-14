@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\bin\Debug\netcoreapp3.1\05.GCOverview.exe
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\bin\Debug\netcoreapp3.1\05.GCOverview.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\bin\Debug\netcoreapp3.1\05.GCOverview.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\bin\Debug\netcoreapp3.1\05.GCOverview.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\bin\Debug\netcoreapp3.1\05.GCOverview.dll
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\bin\Debug\netcoreapp3.1\05.GCOverview.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\obj\Debug\netcoreapp3.1\05.GCOverview.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\obj\Debug\netcoreapp3.1\05.GCOverview.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\obj\Debug\netcoreapp3.1\05.GCOverview.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\obj\Debug\netcoreapp3.1\05.GCOverview.dll
+C:\Users\Viktor\source\repos\Garbage Collection\05.GCOverview\obj\Debug\netcoreapp3.1\05.GCOverview.pdb

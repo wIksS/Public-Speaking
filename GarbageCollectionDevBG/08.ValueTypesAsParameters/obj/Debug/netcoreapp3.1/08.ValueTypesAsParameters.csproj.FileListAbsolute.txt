@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\bin\Debug\netcoreapp3.1\08.ValueTypesAsParameters.exe
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\bin\Debug\netcoreapp3.1\08.ValueTypesAsParameters.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\bin\Debug\netcoreapp3.1\08.ValueTypesAsParameters.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\bin\Debug\netcoreapp3.1\08.ValueTypesAsParameters.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\bin\Debug\netcoreapp3.1\08.ValueTypesAsParameters.dll
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\bin\Debug\netcoreapp3.1\08.ValueTypesAsParameters.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\obj\Debug\netcoreapp3.1\08.ValueTypesAsParameters.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\obj\Debug\netcoreapp3.1\08.ValueTypesAsParameters.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\obj\Debug\netcoreapp3.1\08.ValueTypesAsParameters.dll
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\obj\Debug\netcoreapp3.1\08.ValueTypesAsParameters.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\08.ValueTypesAsParameters\obj\Debug\netcoreapp3.1\08.ValueTypesAsParameters.csprojAssemblyReference.cache

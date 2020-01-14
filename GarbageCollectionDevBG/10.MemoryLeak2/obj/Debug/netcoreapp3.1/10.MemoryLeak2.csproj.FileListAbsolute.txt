@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\bin\Debug\netcoreapp3.1\10.MemoryLeak2.exe
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\bin\Debug\netcoreapp3.1\10.MemoryLeak2.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\bin\Debug\netcoreapp3.1\10.MemoryLeak2.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\bin\Debug\netcoreapp3.1\10.MemoryLeak2.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\bin\Debug\netcoreapp3.1\10.MemoryLeak2.dll
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\bin\Debug\netcoreapp3.1\10.MemoryLeak2.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\obj\Debug\netcoreapp3.1\10.MemoryLeak2.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\obj\Debug\netcoreapp3.1\10.MemoryLeak2.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\obj\Debug\netcoreapp3.1\10.MemoryLeak2.dll
+C:\Users\Viktor\source\repos\Garbage Collection\10.MemoryLeak2\obj\Debug\netcoreapp3.1\10.MemoryLeak2.pdb

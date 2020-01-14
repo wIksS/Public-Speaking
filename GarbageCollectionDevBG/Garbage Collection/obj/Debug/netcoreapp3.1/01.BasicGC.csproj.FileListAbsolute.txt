@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\bin\Debug\netcoreapp3.1\01.BasicGC.exe
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\bin\Debug\netcoreapp3.1\01.BasicGC.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\bin\Debug\netcoreapp3.1\01.BasicGC.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\bin\Debug\netcoreapp3.1\01.BasicGC.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\bin\Debug\netcoreapp3.1\01.BasicGC.dll
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\bin\Debug\netcoreapp3.1\01.BasicGC.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\obj\Debug\netcoreapp3.1\01.BasicGC.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\obj\Debug\netcoreapp3.1\01.BasicGC.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\obj\Debug\netcoreapp3.1\01.BasicGC.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\obj\Debug\netcoreapp3.1\01.BasicGC.dll
+C:\Users\Viktor\source\repos\Garbage Collection\Garbage Collection\obj\Debug\netcoreapp3.1\01.BasicGC.pdb

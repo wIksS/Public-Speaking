@@ -1,0 +1,11 @@
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\bin\Debug\netcoreapp3.1\02.GCGenerations.exe
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\bin\Debug\netcoreapp3.1\02.GCGenerations.deps.json
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\bin\Debug\netcoreapp3.1\02.GCGenerations.runtimeconfig.json
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\bin\Debug\netcoreapp3.1\02.GCGenerations.runtimeconfig.dev.json
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\bin\Debug\netcoreapp3.1\02.GCGenerations.dll
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\bin\Debug\netcoreapp3.1\02.GCGenerations.pdb
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\obj\Debug\netcoreapp3.1\02.GCGenerations.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\obj\Debug\netcoreapp3.1\02.GCGenerations.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\obj\Debug\netcoreapp3.1\02.GCGenerations.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\obj\Debug\netcoreapp3.1\02.GCGenerations.dll
+C:\Users\Viktor\source\repos\Garbage Collection\02.GCGenerations\obj\Debug\netcoreapp3.1\02.GCGenerations.pdb

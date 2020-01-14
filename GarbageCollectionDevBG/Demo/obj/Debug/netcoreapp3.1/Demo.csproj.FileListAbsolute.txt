@@ -1,0 +1,3 @@
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\Garbage Collection\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
